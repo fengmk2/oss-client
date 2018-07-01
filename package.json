@@ -18,9 +18,9 @@
   "author": "haoxin",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "mime": "~1.2.11",
+    "mime": "~1.4.1",
     "xml2js": "~0.4.1",
-    "request": "~2.31.0"
+    "request": "~2.50.0"
   },
   "directories": {
     "test": "test"
